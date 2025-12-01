@@ -5,7 +5,7 @@ img{
 body{
     font-family: Arial, Helvetica, sans-serif;
     color:rgb(0, 0, 0);
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(5, 247, 255, 0.435);
 }
 
 .inmiddle {
@@ -15,4 +15,15 @@ body{
     margin-top: 2vw;
 }
 
+
+.home{
+    text-align: center;
+    display: block;
+    margin :auto;
+    margin-top: 7%
+}
+
+.types{
+    font-size: 20px;
+}
 
