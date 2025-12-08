@@ -18,6 +18,8 @@ body{
 
 .home{
     text-align: center;
+    margin-top: auto;
+    font-size: 35px;
 }
 
 .types{
